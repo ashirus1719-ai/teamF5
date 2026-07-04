@@ -1,0 +1,8 @@
+.cards {
+    border: 2px solid gray;
+    width: fit-content;
+    padding: 17px;
+}
+.cards img {
+    width: 170px;
+}
